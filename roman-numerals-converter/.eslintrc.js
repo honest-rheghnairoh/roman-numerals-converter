@@ -4,6 +4,9 @@ module.exports = {
   },
   extends: ['airbnb', 'airbnb/hooks', 'prettier'],
   plugins: ['prettier'],
+  parserOptions: {
+    ecmaVersion: 11,
+  },
   rules: {
     'prettier/prettier': 'error',
     'no-unused-vars': 'warn',
