@@ -10,7 +10,9 @@ module.exports = {
   rules: {
     'prettier/prettier': 'error',
     'no-unused-vars': 'warn',
+    'no-plusplus': 'off',
     'no-console': 'off',
+    'no-alert': 'off',
     'func-names': 'off',
     'no-process-exit': 'off',
     'object-shorthand': 'off',
