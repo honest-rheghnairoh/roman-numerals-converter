@@ -3,9 +3,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './components/app/App';
 import reportWebVitals from './reportWebVitals';
-import 'bootstrap/dist/css/bootstrap.css';
-// Put any other imports below so that CSS from your
-// components takes precedence over default styles.
 import './index.css';
 
 ReactDOM.render(
