@@ -38,4 +38,9 @@ You will also see any lint errors in the console.\
 
 ## Output & Usage
 
+- Live demo of the application on
+  [Amazon AWS Amplify](https://main.d3jwk79xdtdhei.amplifyapp.com/).
+
+- Preview image
+
 [![Roman Numerals Converter](https://github.com/honest-rheghnairoh/roman-numerals-converter/blob/main/screenshots/output.png?raw=true)](https://github.com/honest-rheghnairoh/roman-numerals-converter)
